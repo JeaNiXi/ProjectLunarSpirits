@@ -1,3 +1,4 @@
-# ProjectLunarSpirits
+# Project Lunar Spirits
  Project Lunar Spirits
- Date: 25.11.2022
+ 
+ Starting Date: 25.11.2022
